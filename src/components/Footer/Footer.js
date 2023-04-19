@@ -6,7 +6,7 @@ const Footer = () => {
             <div>
                 Moviezzz App
             </div>
-            <div>@2023, Moviezzz, Inc. or its affiliates</div>
+            <div>@2023, Moviezzz, All Rights Reserved</div>
         </div>
     );
 };
